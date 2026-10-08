@@ -308,6 +308,6 @@ tests/              verification and validation tests
 ## Authors
 
 - **Abderrahmane BOULAMI**, final-year engineering student, Arts et Métiers ParisTech
-- **Kawtar BELLAMINE**
+- **Kawtar BELLAMINE**, final-year engineering student, Arts et Métiers ParisTech
 
 MIT licence.
