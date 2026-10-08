@@ -1,0 +1,18 @@
+[project]
+name = "mini-aoz-sim"
+version = "0.1.0"
+description = "Agent-based simulation of multi-brand autonomous haulage coordination in a mining Autonomous Operation Zone (Mesa)."
+readme = "README.md"
+requires-python = ">=3.12"
+license = { text = "MIT" }
+authors = [{ name = "Abderrahmane BOULAMI" }, { name = "Kawtar BELLAMINE" }]
+dependencies = ["mesa>=3.1,<4", "networkx>=3.0", "numpy>=1.26", "pandas>=2.0", "matplotlib>=3.8"]
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0"]
+
+[tool.setuptools]
+packages = ["aozsim"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

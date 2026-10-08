@@ -1,0 +1,6 @@
+mesa>=3.1,<4
+networkx>=3.0  # imported by mesa 3.5 but not declared as a dependency
+numpy>=1.26
+pandas>=2.0
+matplotlib>=3.8
+pytest>=8.0
