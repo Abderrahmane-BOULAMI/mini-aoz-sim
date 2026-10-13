@@ -1,7 +1,6 @@
 # mini-aoz-sim
 
-[![tests](https://github.com/USERNAME/mini-aoz-sim/actions/workflows/tests.yml/badge.svg)](https://github.com/USERNAME/mini-aoz-sim/actions/workflows/tests.yml)
-
+[![tests](https://github.com/Abderrahmane-BOULAMI/mini-aoz-sim/actions/workflows/tests.yml/badge.svg)](https://github.com/Abderrahmane-BOULAMI/mini-aoz-sim/actions/workflows/tests.yml)
 **Agent-based simulation of multi-brand autonomous haulage at a shared mine intersection.**
 How should autonomous trucks from *different suppliers* (and manually driven vehicles) share an
 intersection inside an Autonomous Operation Zone (AOZ)? This model compares three coordination
